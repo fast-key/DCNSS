@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    margin: 10px;
+    padding: 10px;
+    background-color: #f1f3f5;
+    font-family: 'Anton' , sans-serif;
+}
+.title-size{
+    color: #4dabf7;
+    font-size: 60px;
+}
+
+/* TOP */
+header{
+    text-align: center;
+}
+
+/* NAVIGATION */
+nav{
+    
+    display: flex;
+    justify-content:flex-end;
+    font-size: 16px;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+}
+a:hover{
+    color:#343a40;
+    border-bottom: 5px solid #4dabf7;
+}
+
+#Model{
+    
+  width: 100%;
+  height: auto;
+}
+
+/* SECTION */
+
+
+section{
+    background-color: #f1f3f5;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 300px;
+}
+
+#Section-Title{
+    color: #4dabf7;
+}
+
+.box{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #4dabf7;
+
+  
+
+}
+
+#About-us-Title{
+    padding: 5px;
+    margin-left: 40%;
+    color: #4dabf7;
+    border: 1px solid  #4dabf7 ;
+    display: inline;
+}
+
+#Services{
+    padding: 5px;
+    margin-left: 40%;
+    color: #4dabf7;
+    border: 1px solid  #4dabf7 ;
+    display: inline;
+}
+
+#Products{
+    padding: 5px;
+    margin-left: 40%;
+    color: #4dabf7;
+    border: 1px solid  #4dabf7 ;
+    display: inline;
+}
